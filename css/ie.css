@@ -1,0 +1,12 @@
+body { min-width: 1170px;}
+/*.b-img-right img,*/
+.box-2 img,
+.dropcap { behavior:url(js/PIE.htc); position:relative;}
+
+
+.magnifier:hover img {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=40);}
+#contact-form ._placeholder {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=99);}
+#contact-form ._placeholder.focused {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=40);}
+.b-img-right img {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80);}
+.b-img-right img.active {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);}
+
